@@ -2,7 +2,6 @@ import math as ma
 
 dane = input()
 liczby = dane.split(" ")
-print(liczby)
 n = int(liczby[0])
 k = int(liczby[1])
 
